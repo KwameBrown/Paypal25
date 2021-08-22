@@ -1,0 +1,5 @@
+#just a text
+echo "what is your name
+read name
+echo "my name is $name"
+date
