@@ -8,4 +8,3 @@ Jessica
 Rudolph
 Chuka
 Ken
-Kennedy
